@@ -48,4 +48,6 @@
 * [Docker](https://discord.gg/VhmRfsj)
 * [Azure Discord Server](https://discord.gg/ucNSsUj)
 
-## Youtube Channels
+## Youtube Channels / Videos
+* [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per day"](https://www.youtube.com/watch?v=LdOe18KhtT4)
+
